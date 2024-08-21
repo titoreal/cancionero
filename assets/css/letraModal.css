@@ -1,0 +1,35 @@
+
+    #letraCancion {
+        white-space: pre-wrap; /* CSS3 */
+        white-space: -moz-pre-wrap; /* Mozilla, since 1999 */
+        white-space: -pre-wrap; /* Opera 4-6 */
+        white-space: -o-pre-wrap; /* Opera 7 */
+        word-wrap: break-word; /* Internet Explorer 5.5+ */
+        line-height: 1.2; /* Reduced line height */
+        padding: 15px;
+        background-color: #f8f9fa; /* Light gray background for better readability */
+        border-radius: 5px;
+    }
+
+    .modal-content {
+        background-color: #e9ecef; /* Light gray background for the modal */
+    }
+
+    .modal-header {
+        background-color: #343a40; /* Dark background for the header */
+        color: #fff; /* White text color for the header */
+    }
+
+    .modal-footer {
+        background-color: #343a40; /* Dark background for the footer */
+    }
+
+    .btn-close {
+        color: #fff; /* White close button */
+    }
+
+    .btn-secondary {
+        background-color: #6c757d; /* Bootstrap secondary button color */
+        border-color: #6c757d;
+    }
+
